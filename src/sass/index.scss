@@ -1,0 +1,18 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+
+@import './utils/vars';
+@import './utils/reset-styles';
+@import './utils/repeating-settings';
+@import './utils/mixins';
+@import './utils/components';
+@import './utils/modal';
+
+@import './layout/common';
+@import './layout/hero-header';
+@import './layout/products';
+@import './layout/about';
+@import './layout/advantages';
+@import './layout/gallery';
+@import './layout/customer-reviews';
+@import './layout/contacts';
+@import './layout/footer';
